@@ -139,5 +139,79 @@
     "size": 11904560,
     "apkName": "F-Droid.apk",
     "added": 1748168884.243577
+  },
+  "Meridian_23.03.09.apk": {
+    "hash": "2a62bfb22b970ba1ed51a8138b30660b7ff0e606e53e15689214a9fac66085d2",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.USE_BIOMETRIC",
+        null
+      ],
+      [
+        "android.permission.CALL_PHONE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.meridian.smartapps.permission.C2D_MESSAGE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.USE_FINGERPRINT",
+        null
+      ],
+      [
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.meridian.smartapps",
+    "versionCode": 312,
+    "name": "Meridian Coop",
+    "versionName": "23.03.09",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 33,
+    "sig": "02601432f7c1c25e69bf61ca52f1f307",
+    "signer": "431913924c8363c1b244d4ee6e77dbdbccad051ea2caf33c73e7530045d8c5f9",
+    "size": 8322925,
+    "apkName": "Meridian_23.03.09.apk",
+    "added": 1748202862.410532
   }
 }
