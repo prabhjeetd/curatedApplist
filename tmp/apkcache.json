@@ -127,7 +127,7 @@
     "features": [],
     "icons_src": {},
     "icons": {},
-    "antiFeatures": [],
+    "antiFeatures": {},
     "packageName": "org.fdroid.fdroid",
     "versionCode": 1021051,
     "name": "F-Droid",
@@ -201,7 +201,7 @@
     "features": [],
     "icons_src": {},
     "icons": {},
-    "antiFeatures": [],
+    "antiFeatures": {},
     "packageName": "com.meridian.smartapps",
     "versionCode": 312,
     "name": "Meridian Coop",
@@ -259,7 +259,7 @@
     "features": [],
     "icons_src": {},
     "icons": {},
-    "antiFeatures": [],
+    "antiFeatures": {},
     "packageName": "com.xc3fff0e.xmanager",
     "versionCode": 230224,
     "name": "xManager",
@@ -282,6 +282,18 @@
     "versionName": "a0f78b4",
     "packageName": "a0f78b4519791b6834c7b4075479f1cd67ed9a451b05de2c56f0dd35f8f32aec",
     "size": 632,
-    "added": 1748980507.278099
+    "added": 1748980519.0
+  },
+  "categories.txt": {
+    "name": "categories",
+    "apkName": "categories.txt",
+    "hash": "1d4c51f97ff180c7acd6b18e6efe14cb46b6663593358dda1ee6fb1930eb3d07",
+    "hashType": "sha256",
+    "ipfsCIDv1": null,
+    "versionCode": 0,
+    "versionName": "1d4c51f",
+    "packageName": "1d4c51f97ff180c7acd6b18e6efe14cb46b6663593358dda1ee6fb1930eb3d07",
+    "size": 13,
+    "added": 1748981268.163363
   }
 }
