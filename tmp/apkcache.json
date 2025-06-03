@@ -127,7 +127,7 @@
     "features": [],
     "icons_src": {},
     "icons": {},
-    "antiFeatures": {},
+    "antiFeatures": [],
     "packageName": "org.fdroid.fdroid",
     "versionCode": 1021051,
     "name": "F-Droid",
@@ -201,7 +201,7 @@
     "features": [],
     "icons_src": {},
     "icons": {},
-    "antiFeatures": {},
+    "antiFeatures": [],
     "packageName": "com.meridian.smartapps",
     "versionCode": 312,
     "name": "Meridian Coop",
@@ -213,5 +213,75 @@
     "size": 8322925,
     "apkName": "Meridian_23.03.09.apk",
     "added": 1748202862.410532
+  },
+  "xManager.apk": {
+    "hash": "967daa70faf2bd992a674cf2764699ac92b5f7d54d4d858ed459f880f1ffabc9",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.REQUEST_DELETE_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+        null
+      ],
+      [
+        "android:name=com.google.android.gms.permission.AD_ID",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.xc3fff0e.xmanager",
+    "versionCode": 230224,
+    "name": "xManager",
+    "versionName": "5.8",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "016a352e56f1988bb0c8364e009ddb4b",
+    "signer": "3e54b1147dbcc14ca12198d9613f3f2514adc4e8b616a17991c9db0e6ae22158",
+    "size": 10131206,
+    "apkName": "xManager.apk",
+    "added": 1748980507.277501
+  },
+  "xManager.apk:Zone.Identifier": {
+    "name": "xManager.apk:Zone",
+    "apkName": "xManager.apk:Zone.Identifier",
+    "hash": "a0f78b4519791b6834c7b4075479f1cd67ed9a451b05de2c56f0dd35f8f32aec",
+    "hashType": "sha256",
+    "ipfsCIDv1": null,
+    "versionCode": 0,
+    "versionName": "a0f78b4",
+    "packageName": "a0f78b4519791b6834c7b4075479f1cd67ed9a451b05de2c56f0dd35f8f32aec",
+    "size": 632,
+    "added": 1748980507.278099
   }
 }
